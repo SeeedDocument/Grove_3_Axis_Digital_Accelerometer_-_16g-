@@ -1,1 +1,1 @@
-# Grove_3_Axis_Digital_Accelerometer_-_16g-
+# Grove_3_Axis_Digital_Accelerometer_Plus_Minus_16g
